@@ -10,9 +10,10 @@
 # Data Sample
 [insert a screenshot of some saved data you collected]
 
-# GitHub Repo
-[URL here]
-
+# Arduino Code
+```
+[code here]
+```
 # How fun was this? 
 [Scale 1-10; 1=no fun, 10=best class assignment ever]
 
