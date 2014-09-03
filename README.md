@@ -11,10 +11,10 @@
 [Explain any modifications you made to the code I provied in order to get your mini-project working]
 
 # Arduino Code
-[insert link to a github repo with your arduino code]
+[Replace the sample arduino code in this repo with the your arduino code, then put the name of your file here]
 
 # Data Sample
-[insert a screenshot of some saved data you collected]
+[Replace the sample data file in this repo with your data file, then put the name of your file here]
 
 # How did you collect this data?
 [Describe the setting and purpose of your data collection]
