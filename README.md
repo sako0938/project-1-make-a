@@ -23,6 +23,7 @@ DHTSparkfun.py
 
 ## Data Sample (7 points)
 streamdata.csv
+https://data.sparkfun.com/streams/G2EnvwNNwMSq7278lKDo
 
 ## How did you collect this data? (5 points)
 Since I still needed to be able to command the Raspberry Pi to begin taking in data I had to keep it attached to an ethernet cable. I put the sensor outside of my closed window and kept the Raspberry Pi inside of my house where it could be connected to a MicroUSB cable and Ethernet.
