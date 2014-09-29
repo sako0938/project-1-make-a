@@ -5,11 +5,11 @@
 Sam Korn
 
 ## Hardware Photo (7 points)
-![image][LoggerPCB.png]
-![image][LoggerSchematic.png]
-![image][LoggerWorld1.jpg]
-![image][LoggerWorld2.jpg]
-![image][LoggerWorld3.jpg]
+![image](LoggerPCB.png)
+![image](LoggerSchematic.png)
+![image](LoggerWorld1.jpg)
+![image](LoggerWorld2.jpg)
+![image](LoggerWorld3.jpg)
 
 
 ## Data type (2 points) 
