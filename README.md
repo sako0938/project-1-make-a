@@ -13,7 +13,7 @@ Sam Korn
 
 
 ## Data type (2 points) 
-Tab Seperated Values
+Comma Seperated Values
 
 ## How did you get your prototype working? (7 points)
 I made my prototype PCB at the ITLL Electronics Center. I started with DHT22 example code from Adafruit.com and built addition functionality around it in order to timestamp and save the data as a tab sepeared value.
@@ -22,7 +22,7 @@ I made my prototype PCB at the ITLL Electronics Center. I started with DHT22 exa
 DHTSparkfun.py
 
 ## Data Sample (7 points)
-[Replace the sample data file in this repo with your data file, then put the name of your file here]
+streamdata.csv
 
 ## How did you collect this data? (5 points)
 Since I still needed to be able to command the Raspberry Pi to begin taking in data I had to keep it attached to an ethernet cable. I put the sensor outside of my closed window and kept the Raspberry Pi inside of my house where it could be connected to a MicroUSB cable and Ethernet.
