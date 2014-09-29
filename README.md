@@ -5,11 +5,11 @@
 Sam Korn
 
 ## Hardware Photo (7 points)
-[LoggerPCB.png]
-[LoggerSchematic.png]
-[LoggerWorld1.jpg]
-[LoggerWorld2.jpg]
-[LoggerWorld3.jpg]
+![image][LoggerPCB.png]
+![image][LoggerSchematic.png]
+![image][LoggerWorld1.jpg]
+![image][LoggerWorld2.jpg]
+![image][LoggerWorld3.jpg]
 
 
 ## Data type (2 points) 
@@ -37,4 +37,4 @@ Since the DHT22 uses a 1-wire communication bus in order to send digital data, I
 6. Making the hardware was relatively easy. I have made a smaller DHT22 prototype PCB before, so this one only had the additional two LEDs to make it different. My time function on the Raspberry Pi returns the time in UTC, and I was not able to figure out how to get it to local time during my time programming. I wish I was a little more familiar with Linux startup commands, writing to files, and Python.
 
 ## How much did you learn from the experience? (3 points)
-4. The PCB was pretty easy to make and I already knew how to do it. I have written code based of the Adafruit DHT library before, but I have never had to save the data to a file or try to make custom code run at boottime for a Linux machine.
+4. The PCB was pretty easy to make and I already knew how to do it. I have written code based of the Adafruit DHT library before, but I have never had to save the data to a file or try to make custom code run at boottime for a Linux machine. Getting the Sparkfun data storage to work was the most difficult part for me, because it was a completely new thing to do.
